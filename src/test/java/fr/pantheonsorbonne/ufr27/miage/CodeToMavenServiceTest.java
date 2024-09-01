@@ -1,5 +1,7 @@
 package fr.pantheonsorbonne.ufr27.miage;
 
+import fr.pantheonsorbonne.ufr27.miage.model.ClassInfo;
+import fr.pantheonsorbonne.ufr27.miage.service.CodeToMavenService;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
